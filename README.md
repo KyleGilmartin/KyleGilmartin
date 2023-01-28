@@ -3,7 +3,8 @@
 🔭 I’m currently working on ...<br />
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KyleGilmartin&repo=StepFitFrontEnd)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KyleGilmartin&repo=StepFitBackEnd)](https://github.com/anuraghazra/github-readme-stats) -->
-A Inagrame Clone, is set to privite as curently being developed
+A Instagram Clone, is set to privite as curently being developed
+<br />
 <br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleGilmartin&layout=compact"/>
 
