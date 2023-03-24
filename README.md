@@ -6,7 +6,7 @@
 A Instagram Clone, is set to privite as curently being developed
 <br />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleGilmartin&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyleGilmartin&layout=compact"/> 
  
 ---
 ### environment
